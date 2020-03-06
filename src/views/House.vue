@@ -21,7 +21,7 @@ export default {
     return {
       checklists: [
         {
-          item: "健康管理と早期発見",
+          title: "健康管理と早期発見",
           lists: [
             {
               item:
